@@ -11,4 +11,6 @@
 5. Clazy warnings & error types:
 https://github.com/KDE/clazy  &  
 https://invent.kde.org/sdk/clazy
-   
+6. Gtest
+   https://google.github.io/googletest/ &
+   https://github.com/google/googletest
