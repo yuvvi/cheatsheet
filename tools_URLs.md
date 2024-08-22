@@ -6,9 +6,9 @@
     https://plantuml.com/
     https://plantuml.com/guide
 4. Android developer trainings:
-    https://developer.android.com/courses
+    https://developer.android.com/courses  &  
    Automotive : https://developer.android.com/training/cars
 5. Clazy warnings & error types:
-    https://github.com/KDE/clazy
-    https://invent.kde.org/sdk/clazy
+https://github.com/KDE/clazy  &  
+https://invent.kde.org/sdk/clazy
    
