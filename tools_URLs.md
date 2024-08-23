@@ -6,11 +6,10 @@
     https://plantuml.com/
     https://plantuml.com/guide
 4. Android developer trainings:
-    https://developer.android.com/courses  &  
-   Automotive : https://developer.android.com/training/cars
+    https://developer.android.com/courses | Automotive : https://developer.android.com/training/cars
 5. Clazy warnings & error types:
-https://github.com/KDE/clazy  &  
-https://invent.kde.org/sdk/clazy
+    https://github.com/KDE/clazy | https://invent.kde.org/sdk/clazy
 6. Gtest
-   https://google.github.io/googletest/ &
-   https://github.com/google/googletest
+   https://google.github.io/googletest/ | https://github.com/google/googletest
+7. Design patterns:
+   https://bhavithc.com/ | https://github.com/Junzhuodu/design-patterns | https://cs.smu.ca/~porter/csc/465/notes/design_patterns.html
