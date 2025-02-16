@@ -13,3 +13,10 @@
    https://google.github.io/googletest/ | https://github.com/google/googletest
 7. Design patterns:
    https://bhavithc.com/ | https://github.com/Junzhuodu/design-patterns | https://cs.smu.ca/~porter/csc/465/notes/design_patterns.html
+   https://refactoring.guru | https://sourcemaking.com
+9. Online IDE
+   https://compiler-explorer.com
+10. Qt Learning
+    https://academy.qt.io/learner-dashboard
+
+   
